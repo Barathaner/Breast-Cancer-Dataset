@@ -1,0 +1,1 @@
+Data is taken from the kaggel challenge "Spaceship Titanic" (https://www.kaggle.com/competitions/spaceship-titanic/data)
